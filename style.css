@@ -48,9 +48,51 @@ section{
 .my-name{
     padding-top: 8%;
 }
-p{
-    margin-bottom: 40px;
-}
 .paragraph-padding{
     padding-right: 8%;
+    margin-bottom: 40px;
+}
+.my-recipies{
+    text-align: center;
+}
+.recipie-flex{
+    display: flex;
+    margin-left: 9%;
+}
+.recipie-container{
+    width: 20%;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 5%;
+    border-radius: 20px;
+}
+.recipie-container img{
+    width: 100%;
+}
+.h1-edit h1{
+    margin-bottom: 0;
+}
+.h1-edit{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 30px;
+}
+.show-off{
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+    width: 73%;
+    margin-left: 13.5%;
+    margin-right: 13.5%;
+    border-radius: 20px;
+}
+.bottom-section{
+    background-color: black;
+    text-align: center;
+    padding-bottom:30px ;
+    padding-top: 30px;
+    margin-bottom: 0;
+}
+.bottom-section h1{
+    font-size:30px ;
 }
